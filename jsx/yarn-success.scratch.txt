@@ -1,0 +1,38 @@
+success Saved 6 new dependencies.
+info Direct dependencies
+├─ react-dom@16.6.3
+├─ react-scripts@2.1.1
+└─ react@16.6.3
+info All dependencies
+├─ babel-preset-react-app@6.1.0
+├─ react-dev-utils@6.1.1
+├─ react-dom@16.6.3
+├─ react-error-overlay@5.1.0
+├─ react-scripts@2.1.1
+└─ react@16.6.3
+Done in 63.85s.
+
+Initialized a git repository.
+
+Success! Created jsx at D:\code\MyProjects\Udemy\jsx
+Inside that directory, you can run several commands:
+
+  yarn start
+    Starts the development server.
+
+  yarn build
+    Bundles the app into static files for production.
+
+  yarn test
+    Starts the test runner.
+
+  yarn eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd jsx
+  yarn start
+
+Happy hacking!
